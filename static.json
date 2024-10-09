@@ -19,7 +19,7 @@
       },
         "transfer": {
           "collection_id": "7917c286-d1e5-40be-b33b-edd29f3a1448",
-          "path": "/"
+          "path": "/projects/crocus/data/ingested-data/"
         }
       }
     }
